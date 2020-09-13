@@ -1,0 +1,3 @@
+include ':booster'
+include ':app'
+rootProject.name = "BoostEngine"

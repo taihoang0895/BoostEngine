@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BoostEngine</string>
+    <string name="booster_service_description">Booster Accessibility Service</string>
+    <string name="booster_service_name">Booster Accessibility Service</string>
+</resources>
